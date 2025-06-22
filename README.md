@@ -11,10 +11,6 @@
 
 ------------------------------------------------------
 
-## 目录
-
-[TOC]
-
 -------------------------------------------------------------
 
 ## 0.开发环境及文件组织
@@ -1142,39 +1138,39 @@ while (1)
 
 ### a.内核模式下的图像绘制测试
 
-![7f92d4769b841ca7313169973a2379f3_720](.\picture\7f92d4769b841ca7313169973a2379f3_720.png)
+![7f92d4769b841ca7313169973a2379f3_720](./picture/7f92d4769b841ca7313169973a2379f3_720.png)
 
 ### b.用户程序里的字符雨
 
-![247c9197f4a0d0b55f9fb633c35900a9_720](.\picture\247c9197f4a0d0b55f9fb633c35900a9_720.png)
+![247c9197f4a0d0b55f9fb633c35900a9_720](./picture/247c9197f4a0d0b55f9fb633c35900a9_720.png)
 
 ### c. 用户程序的提示信息
 
-![b65664e27e1fe0baee8e889e8c3a5843](.\picture\b65664e27e1fe0baee8e889e8c3a5843.png)
+![b65664e27e1fe0baee8e889e8c3a5843](./picture/b65664e27e1fe0baee8e889e8c3a5843.png)
 
 单击空格后进入生命游戏界面
 
 ### d.生命游戏初始的一个特定图形
 
-![c227febd0b1cf3351cb05325e6945f55](.\picture\c227febd0b1cf3351cb05325e6945f55.png)
+![c227febd0b1cf3351cb05325e6945f55](./picture/c227febd0b1cf3351cb05325e6945f55.png)
 
 单击空格键生成随机细胞分布
 
 ### e.随机分布的一个细胞
 
-![ef47d7faac29f32b430de161b41b9665](.\picture\ef47d7faac29f32b430de161b41b9665.png)
+![ef47d7faac29f32b430de161b41b9665](./picture/ef47d7faac29f32b430de161b41b9665.png)
 
 细胞随着时间的推进会根据规则生长凋亡
 
 ### f.上一个随机分布细胞的最终布局
 
-![8f9ec598c37b3eba3c68c660ddfc50d6](.\picture\8f9ec598c37b3eba3c68c660ddfc50d6.png)
+![8f9ec598c37b3eba3c68c660ddfc50d6](./picture/8f9ec598c37b3eba3c68c660ddfc50d6.png)
 
 ## 6.参考资料
 
 ### a. [穿越操作系统迷雾 ](https://book.douban.com/subject/36560814/)
 
-![穿越操作系统迷雾](.\picture\s34644418.jpg)
+![穿越操作系统迷雾](./picture/s34644418.jpg)
 
 ### b. [xv6操作系统]([mit-pdos/xv6-public: xv6 OS (github.com)](https://github.com/mit-pdos/xv6-public))
 
