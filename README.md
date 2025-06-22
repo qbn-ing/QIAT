@@ -951,7 +951,6 @@ void mm_init()
 | 内核映射 | `0xffffffff80000000`-`0xffffffff84000000` | `0x0`-`0x4000000`   | 64MB |
 | 恒等映射 | `0x0`-`0x200000`                          | `0x0`-`0x200000`    | 2MB  |
 | 线性映射 | `0xffff888000000000`-`0xffff888140000000` | `0x0`-`0x140000000` | 4GB  |
-|          |                                           |                     |      |
 
 ### i.用户程序
 
@@ -1172,7 +1171,7 @@ while (1)
 
 ![穿越操作系统迷雾](./picture/s34644418.jpg)
 
-### b. [xv6操作系统]([mit-pdos/xv6-public: xv6 OS (github.com)](https://github.com/mit-pdos/xv6-public))
+### b. [xv6操作系统](https://github.com/mit-pdos/xv6-public)
 
 ​	[xv6 中文文档 ](https://th0ar.gitbooks.io/xv6-chinese/content/)
 
@@ -1182,5 +1181,5 @@ while (1)
 
 ### e. [哔哩哔哩-操作系统实现-踌躇月光](https://space.bilibili.com/491131440/channel/collectiondetail?sid=146887)
 
-### f .[ASCII字符艺术生成器]([Text to ASCII Art Generator (TAAG) (patorjk.com)](https://www.patorjk.com/software/taag/#p=display&c=bash&f=Alpha&t=qiat))
+### f .[ASCII字符艺术生成器](https://www.patorjk.com/software/taag/#p=display&c=bash&f=Alpha&t=qiat)
 
